@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "http://localhost:7071",
+    "target": "https://products-get-learn.azurewebsites.net/api/products",
     "secure": false
   }
 }
